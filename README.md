@@ -5,6 +5,4 @@
 
 晴山も見えましたー
 
-
-branchAです！
-↑間違えた。。。。
+branchAがmasterになったよ！
