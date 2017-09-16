@@ -5,4 +5,4 @@
 
 晴山も見えましたー
 
-こっちがほんとのbranchA
+branchAがmasterになったよ！
